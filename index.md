@@ -9,3 +9,8 @@
 cd ~/Documents/Symphony/
 cat ./symphony_lyrics
 ```
+
+- [ ] And now your song is on repeat
+- [ ] And I'm dancin' on to your heartbeat
+- [ ] And when you're gone, I feel incomplete
+- [ ] So, if you want the truth
